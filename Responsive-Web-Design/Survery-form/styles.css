@@ -1,0 +1,19 @@
+label,
+select {
+  display: block;
+  margin-top: 5px;
+}
+
+.inline {
+  display: inline;
+}
+
+textarea {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+
+input[type="submit"] {
+  margin-top: 5px;
+}
